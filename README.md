@@ -12,3 +12,9 @@ Once a winner has been detected, change the color of the four winning cells to t
 A click on any board cell in any filled column must lead to nothing. The gameplay continues with the same player's turn;
 
 A click on any board cell once a game is finished must lead to nothing.
+
+Usage
+
+first player :X
+second Player :O
+resetButton : game restart
