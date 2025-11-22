@@ -1,5 +1,6 @@
 # Desktop-Connect-Four
 Objectives
+
 Add the baseline color for all cells at the start of the application;
 
 Add a reset button that extends the JButton named ButtonReset. The button should be enabled. Clicking on it should clear all cells and return them to their baseline color;
