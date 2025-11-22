@@ -15,7 +15,6 @@ A click on any board cell once a game is finished must lead to nothing.
 
 Usage
 
-first player :X
-second Player :O   
-
+first player :X     
+second Player :O  
 resetButton : game restart
